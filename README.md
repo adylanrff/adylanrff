@@ -10,6 +10,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Metroidvania / Souls-like games 🗡️
 
+<br/>
 
 <hr/>
 
