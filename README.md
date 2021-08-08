@@ -1,5 +1,6 @@
 ### Adylan Roaffa
 
+
 - 🔭 I’m currently working at **Shopee Singapore**
 - 👯 I’m looking to collaborate on pro-bono project / open source projects
 - 🤔 I’m looking for help with **starting to contribute on OSS projects**
@@ -8,9 +9,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Metroidvania / Souls-like games 🗡️
 
+<hr></hr>
+
 [![Adylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adylanrff)](https://github.com/adylanrff/adylanrff)
-
-
 
 
 <!--
