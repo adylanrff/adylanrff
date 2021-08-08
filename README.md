@@ -1,4 +1,4 @@
-### Adylan Roaffa
+### Welcome to Adylan's Page!
 
 
 - 🔭 I’m currently working at **Shopee Singapore**
@@ -9,7 +9,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Metroidvania / Souls-like games 🗡️
 
-<hr></hr>
+
+</hr>
 
 [![Adylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adylanrff)](https://github.com/adylanrff/adylanrff)
 
