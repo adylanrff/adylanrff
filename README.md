@@ -1,5 +1,6 @@
 # Welcome to Adylan's Page!
 
+</br> 
 
 - 🔭 I’m currently working at **Shopee Singapore**
 - 👯 I’m looking to collaborate on pro-bono project / open source projects
