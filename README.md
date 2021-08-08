@@ -15,7 +15,6 @@
 <hr/>
 
 [![Adylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adylanrff&show_icons=true&theme=radical)](https://github.com/adylanrff/adylanrff)
-[![trophy](https://github-profile-trophy.vercel.app/?username=adylanrff&theme=radical)](https://github.com/adylanrff/adylanrff)
 
 
 <!--
