@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with **starting to contribute on OSS projects**
 - 💬 Ask me about **Backend engineering**
 - 📫 How to reach me: HMU with the handle **@adylanrff** on almost every social media
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love Metroidvania / Souls-like games 🗡️
 
 <br/>
