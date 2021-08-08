@@ -14,7 +14,7 @@
 
 <hr/>
 
-[![Adylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adylanrff)](https://github.com/adylanrff/adylanrff)
+[![Adylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adylanrff&show_icons=true&theme=radical)](https://github.com/adylanrff/adylanrff)
 
 
 <!--
