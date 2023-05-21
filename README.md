@@ -2,7 +2,7 @@
 
 <br/> 
 
-- 🔭 I’m currently working at **Tiktok Singapore** as a Software Engineer
+- 🔭 I’m currently working at **TikTok Singapore** as a Software Engineer
 - 👯 I’m looking to collaborate on **pro-bono projects / open source projects**
 - 🤔 I’m looking for help with **starting to contribute on OSS projects**
 - 💬 Ask me about **Backend engineering**
