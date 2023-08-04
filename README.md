@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working at **TikTok Singapore** as a Software Engineer
 - 👯 Interested in **distributed systems and systems programming**
-- 🤔 I’m looking for help with **starting to contribute on OSS projects**
 - 💬 Ask me about **Backend engineering**
 - 📫 How to reach me: HMU with the handle **@adylanrff** on almost every social media
 - 😄 Pronouns: **He/Him**
