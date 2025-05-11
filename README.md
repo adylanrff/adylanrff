@@ -2,7 +2,6 @@
 
 <br/> 
 
-- 🔭 I’m currently working at **TikTok Singapore** as a Software Engineer
 - 👯 Interested in **distributed systems and systems programming**
 - 💬 Ask me about **Backend engineering**
 - 📫 How to reach me: HMU with the handle **@adylanrff** on almost every social media
